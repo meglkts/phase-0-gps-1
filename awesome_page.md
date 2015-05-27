@@ -8,7 +8,6 @@ __This is our awesome page__
 _Italic_
 
 
-
 ```Some sort of code block```
 
 [Phase-0-gps-1](https://github.com/meglkts/phase-0-gps-1)
